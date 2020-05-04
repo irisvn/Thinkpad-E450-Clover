@@ -9,4 +9,5 @@ Working:
 - Hotkey (Volume, Brightness)
 
 Not Working:
+- Panic error notice when start MacOS
 - Checking ...
