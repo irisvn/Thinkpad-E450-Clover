@@ -1,4 +1,5 @@
 # Thinkpad-E450-Clover
+Thanks @Harry Nguyen (HackintoshVN)
 
 Working: 
 - HDMI, HD 5500
